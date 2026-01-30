@@ -67,5 +67,5 @@ Este repositório documenta minha evolução como desenvolvedor no início da gr
 ---
 
 **Desenvolvido por:** Gabriel Sá Teles
-**Instituição:** [Nome da sua Faculdade]
-**Curso:** Engenharia de Software - 1º Período
+**Instituição:** UniGoiás
+**Curso:** Engenharia de Software - Feito no 1º Período
